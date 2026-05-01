@@ -51,5 +51,5 @@ A machine learning Streamlit app that predicts building energy demand based on s
 ## Contact
 
 - GitHub: [Rbektas39](https://github.com/Rbektas39)
-- LinkedIn: (www.linkedin.com/in/robert-bektas-372a7a253)
+- LinkedIn: www.linkedin.com/in/robert-bektas-372a7a253
 - Email: rbektas@nd.edu
